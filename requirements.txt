@@ -1,6 +1,5 @@
 dotenv
 langchain
-langchain-ollama
 langchain-groq
 pymupdf
 cohere
